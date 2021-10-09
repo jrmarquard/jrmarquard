@@ -1,8 +1,6 @@
-Hi, I’m @jrmarquard - software dev based in Sydney/Australia.
+Hi, I’m John - software eng from Sydney/Australia.
 
-My domain: https://johnmarquard.me/
+https://johnmarquard.me/
 
 Feel free to reach out!
-
-/John
 
